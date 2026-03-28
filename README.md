@@ -16,4 +16,4 @@ This repository contains my write-ups and notes from Hack The Box machines.
 - [Redeemer](redeemer.md)
 - [Explosion](explosion.md)
 - [Preignition](preignition.md)
-- Mongod
+- [MongoD](mongod.md)
