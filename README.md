@@ -10,8 +10,8 @@ This repository contains my write-ups and notes from Hack The Box machines.
 
 ## Machines
 
-- Meow
-- Fawn
+- [Meow](meow.md)
+- [Fawn](fawn.md)
 - Dancing
 - Redeemer
 - Explosion
