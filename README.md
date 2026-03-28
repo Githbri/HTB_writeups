@@ -14,6 +14,6 @@ This repository contains my write-ups and notes from Hack The Box machines.
 - [Fawn](fawn.md)
 - [Dancing](dancing.md)
 - [Redeemer](redeemer.md)
-- Explosion
+- [Explosion](explosion.md)
 - Preignition
 - Mongod
