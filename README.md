@@ -13,7 +13,7 @@ This repository contains my write-ups and notes from Hack The Box machines.
 - [Meow](meow.md)
 - [Fawn](fawn.md)
 - [Dancing](dancing.md)
-- Redeemer
+- [Redeemer](redeemer.md)
 - Explosion
 - Preignition
 - Mongod
