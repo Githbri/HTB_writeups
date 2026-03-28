@@ -15,5 +15,5 @@ This repository contains my write-ups and notes from Hack The Box machines.
 - [Dancing](dancing.md)
 - [Redeemer](redeemer.md)
 - [Explosion](explosion.md)
-- Preignition
+- [Preignition](preignition.md)
 - Mongod
